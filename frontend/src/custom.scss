@@ -39,8 +39,8 @@ body {
 
 .user-img {
   width: 100px;
-  height: 100px;
-  border-radius: 100px;
+  height: auto;
+  border-radius: 1px;
 }
 
 .item-img {
@@ -57,5 +57,5 @@ body {
 }
 
 .user-info {
-  min-width: 400px;
+  min-width: 800px;
 }
